@@ -1,4 +1,4 @@
-DISPLAYING CODE AND NOTE*:
+DISPLAYING THE CODE AND NOTE*:
 
 To display the project, it is recommended to open the file in Visual Studio Code.
 
