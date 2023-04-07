@@ -11,7 +11,7 @@ SOFTWARE INSTRUCTIONS:
 
 Creating a Ticket:
 
-1. To create a new ticket in the main menu, use the 'C' key.
+1. To create a new ticket, go to the main menu, and type in the 'C' key.
 
 2. Add in the following information, 
 - Your Name 
@@ -32,13 +32,13 @@ Password Change:
 - An Email address
 - Type "Password Change" in the description.
 
-3. When the ticket has been made, the software lets you know the password has been changed.
+3. Once the ticket has been made, the software lets you know the password has been changed.
 
 4. In the main menu, press the 'V' key to view a ticket.
 
-5. Input the Ticket ID number, an example would be '2004'.
+5. Input the Ticket ID number. (An example would be '2004')
 
-6. The ticket be printed with the new password in the result.
+6. The ticket will be printed with the new password in the result.
 
 
 Viewing a ticket:
@@ -59,19 +59,19 @@ Editing a Ticket:
 
 Opening or Closing a Ticket:
 
-Type in the 'O' key to open a ticket, and type in the 'C' key to close a ticket. 
+Type in the 'O' key to open a ticket, or type in the 'C' key to close a ticket. 
 
 
 Responding to a Ticket:
 
-If you want to enter a response, press the 'R' key and enter your response.
+If you want to enter a response to the ticket, press the 'R' key and enter your response.
 
 
 Deleting a Ticket:
 
-1. If you type the 'D' key, it will ask you if you want, (Y) or don't want to delete your ticket, (N). 
+1. If you want to delete a ticket, type the 'D' key, it will ask you if you want, (Y) or don't want to delete your ticket, (N). 
 
-2. If you typed 'Y', the ticket will be deleted and there will be one less ticket created. If you typed 'N', a confirmation message will appear telling you there have been no changes made.
+2. If you type 'Y', the ticket will be deleted and there will be one less ticket created. If you typed 'N', a confirmation message will appear telling you there have been no changes made to the ticket.
 
 
 
